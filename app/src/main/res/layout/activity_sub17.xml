@@ -26,7 +26,7 @@
         <RadioButton
             android:id="@+id/radioButton31設計交通容量"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="52dp"
             android:layout_weight="1"
             android:text="@string/設計交通容量台"
             android:textSize="25sp" />
@@ -42,7 +42,7 @@
         <RadioButton
             android:id="@+id/radioButton32設計時間交通量"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="52dp"
             android:layout_weight="1"
             android:text="@string/設計時間交通量台"
             android:textSize="25sp" />

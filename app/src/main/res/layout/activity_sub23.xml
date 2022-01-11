@@ -69,7 +69,7 @@
             <TextView
                 android:id="@+id/textView2交通方式"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_marginTop="8dp"
                 android:text="2TextView交通方式"
                 android:textSize="25sp" />
@@ -77,14 +77,15 @@
             <TextView
                 android:id="@+id/textView3選定交通量"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_marginTop="8dp"
                 android:text="3TextView選定交通量"
                 android:textSize="25sp" />
+
             <TextView
                 android:id="@+id/textView4所要換気量"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_marginTop="8dp"
                 android:text="4TextView所要換気量"
                 android:textSize="25sp" />
@@ -92,7 +93,7 @@
             <TextView
                 android:id="@+id/textView5自然換気量"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="48dp"
                 android:layout_marginTop="8dp"
                 android:text="5TextView自然換気量"
                 android:textSize="25sp" />

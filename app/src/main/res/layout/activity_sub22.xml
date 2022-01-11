@@ -26,7 +26,7 @@
         <RadioButton
             android:id="@+id/radioButton220供用年度20"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度20"
             android:textSize="25sp" />
@@ -34,7 +34,7 @@
         <RadioButton
             android:id="@+id/radioButton221供用年度21"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度21"
             android:textSize="25sp" />
@@ -42,7 +42,7 @@
         <RadioButton
             android:id="@+id/radioButton222供用年度22"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度22"
             android:textSize="25sp" />
@@ -50,23 +50,23 @@
         <RadioButton
             android:id="@+id/radioButton223供用年度23"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度23"
             android:textSize="25sp" />
-        
-	    <RadioButton
+
+        <RadioButton
             android:id="@+id/radioButton224供用年度24"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度24"
             android:textSize="25sp" />
-	    
+
         <RadioButton
             android:id="@+id/radioButton225供用年度25"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/S供用年度25"
             android:textSize="25sp" />

@@ -27,7 +27,7 @@
         <RadioButton
             android:id="@+id/radioButton11一方通行"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/一方通行"
             android:textSize="25sp" />
@@ -35,7 +35,7 @@
         <RadioButton
             android:id="@+id/radioButton12対面通行"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/対面通行"
             android:textSize="25sp" />

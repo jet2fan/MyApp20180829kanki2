@@ -26,7 +26,7 @@
         <RadioButton
             android:id="@+id/radioButton181設計速度80"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/設計速度80"
             android:textSize="25sp" />
@@ -34,7 +34,7 @@
         <RadioButton
             android:id="@+id/radioButton182設計速度70"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/設計速度70"
             android:textSize="25sp" />
@@ -42,7 +42,7 @@
         <RadioButton
             android:id="@+id/radioButton183設計速度60"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/設計速度60"
             android:textSize="25sp" />
@@ -50,7 +50,7 @@
         <RadioButton
             android:id="@+id/radioButton184設計速度50"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/設計速度50"
             android:textSize="25sp" />

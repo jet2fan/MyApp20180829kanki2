@@ -26,21 +26,21 @@
         <RadioButton
             android:id="@+id/radioButton21市街化していない地域"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:text="@string/市街化していない地域"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton22幾分市街化している地域"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:text="@string/幾分市街化している地域"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton23市街化している地域"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="@string/市街化している地域"
             android:textSize="25sp" />

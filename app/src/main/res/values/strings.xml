@@ -84,4 +84,14 @@
     <string name="PrintLog1Error">Error発生</string>
     <string name="activity_sub15_001">道路諸元</string>
     <string name="activity_sub15_002">車線幅員(m)</string>
+    <string name="activity_sub15_003">3.5</string>
+    <string name="activity_sub15_004">計画交通量(台/日)</string>
+    <string name="activity_sub15_005">1500</string>
+    <string name="activity_sub15_006">大型車混入率</string>
+    <string name="activity_sub15_007">0.2</string>
+    <string name="activity_sub15_008">道路勾配(%)</string>
+    <string name="activity_sub15_009">2.0</string>
+    <string name="activity_sub15_010">(道路勾配＜3％)</string>
+    <string name="activity_sub15_011">側方余裕(m)</string>
+    <string name="activity_sub15_012">0.75</string>
 </resources>
