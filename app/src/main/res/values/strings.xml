@@ -66,6 +66,11 @@
     <string name="S屈曲数2">2</string>
     <string name="S屈曲数3">3</string>
     <string name="S屈曲数4">4</string>
+    <string name="屈曲数0">0 個所</string>
+    <string name="屈曲数1">1 個所</string>
+    <string name="屈曲数2">2 個所</string>
+    <string name="屈曲数3">3 個所</string>
+    <string name="屈曲数4">4 個所</string>
     <string name="S区間延長">区間延長(m)</string>
     <string name="S区間勾配">区間勾配(%)</string>
     <string name="Sトンネル断面">Sトンネル断面</string>

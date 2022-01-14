@@ -25,42 +25,42 @@
 
         <RadioButton
             android:id="@+id/radioButton190屈曲数0"
-            android:layout_width="60dp"
+            android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:text="@string/S屈曲数0"
+            android:text="@string/屈曲数0"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton191屈曲数1"
-            android:layout_width="60dp"
+            android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:text="@string/S屈曲数1"
+            android:text="@string/屈曲数1"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton192屈曲数2"
-            android:layout_width="60dp"
+            android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:text="@string/S屈曲数2"
+            android:text="@string/屈曲数2"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton193屈曲数3"
-            android:layout_width="60dp"
+            android:layout_width="match_parent"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:text="@string/S屈曲数3"
+            android:text="@string/屈曲数3"
             android:textSize="25sp" />
 
         <RadioButton
             android:id="@+id/radioButton194屈曲数4"
-            android:layout_width="60dp"
+            android:layout_width="match_parent"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:text="@string/S屈曲数4"
+            android:text="@string/屈曲数4"
             android:textSize="25sp" />
     </RadioGroup>
 
